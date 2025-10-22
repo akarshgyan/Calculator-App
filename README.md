@@ -64,7 +64,7 @@ A modern, feature-rich calculator application built with Java Swing, featuring a
 
 ## Screenshot
 
-![Calculator App Screenshot](screenshot.jpg)
+![Calculator App Screenshot](screenshot.png)
 
 ## Project Structure
 
